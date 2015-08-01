@@ -1,0 +1,8 @@
+<!-- Buttons to change the language -->
+<div class="buttons-group">
+	<button class="language-button" ng-class="{selected: currLang === 'en'}" ng-click="changeLanguage('en')">English</button>
+	<button class="language-button" ng-class="{selected: currLang === 'de'}" ng-click="changeLanguage('de')">German</button>
+	<button class="language-button" ng-class="{selected: currLang === 'pt'}" ng-click="changeLanguage('pt')">Portuguese</button>
+</div>
+
+<sports-bracket bracket="{{data}}"></sports-bracket>

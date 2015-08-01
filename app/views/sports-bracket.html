@@ -1,0 +1,45 @@
+<!-- Bracket in tree version (for big devices) -->
+<div class="match-tree">
+	<div ng-repeat="round in tree" class="match-round">
+		<div ng-repeat="match in round" class="match">
+			<div ng-show="match.teamHome.name" class="team-names">
+				<span class="team-name">{{match.teamHome.name}}</span> 
+				- 
+				<span class="team-name">{{match.teamAway.name}}</span>
+			</div>
+			<div ng-hide="match.teamHome.name" class="team-names">
+				<span class="team-placeholder">{{match.teamHome | translate}}</span> 
+				- 
+				<span class="team-placeholder">{{match.teamAway | translate}}</span>
+			</div>
+			<div ng-if="match.scoreHome > -1">{{match.scoreHome}} - {{match.scoreAway}}</div>
+			<div ng-if="match.scoreHome == -1" class="kickoff-time">
+				<span>{{match.kickoff | date: 'MMM d'}}</span> 
+				<span>{{match.kickoff | date: 'H:mm'}}</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Bracket in list version (for small devices) -->
+<div class="match-list">
+	<div ng-repeat="round in list">
+		<div ng-repeat="match in round" class="match">
+			<div ng-show="match.teamHome.name" class="team-names">
+				<span class="team-name">{{match.teamHome.name}}</span> 
+				- 
+				<span class="team-name">{{match.teamAway.name}}</span>
+			</div>
+			<div ng-hide="match.teamHome.name" class="team-names">
+				<span class="team-placeholder">{{match.teamHome | translate}}</span> 
+				- 
+				<span class="team-placeholder">{{match.teamAway | translate}}</span>
+			</div>
+			<div ng-if="match.scoreHome > -1">{{match.scoreHome}} - {{match.scoreAway}}</div>
+			<div ng-if="match.scoreHome == -1" class="kickoff-time">
+				<span>{{match.kickoff | date: 'MMM d'}}</span> 
+				<span>{{match.kickoff | date: 'H:mm'}}</span>
+			</div>
+		</div>
+	</div>
+</div>

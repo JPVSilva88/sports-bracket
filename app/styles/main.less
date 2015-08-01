@@ -1,0 +1,84 @@
+@margin: 4px;
+@background-color: #FBFBFB;
+@border-color: gray;
+@gray-text: #A2A2A2;
+@button-action-color: lightgray;
+
+body {
+	background-color: @background-color;
+}
+
+.buttons-group {
+	display: flex;
+	justify-content: center;
+}
+
+.language-button.selected {
+	background-color: @button-action-color;
+}
+
+.language-button {
+	background-color: white;
+	border: 1px solid @border-color;
+	padding: @margin @margin*2;
+	border-radius: 4px;
+	cursor: pointer;
+	margin: 0px @margin @margin*2 @margin;
+	
+	&:hover {
+		background-color: @button-action-color;
+	}
+}
+
+.match-tree {
+	display: block;
+}
+
+.match-list {
+	display: none;
+}
+
+.match-round {
+	display: flex; 
+	justify-content: space-around;
+}
+
+.match {
+	border: 1px solid @border-color;
+	text-align: center;
+	margin: @margin;
+	padding: @margin;
+	width: 200px;
+	background-color: white;
+}
+
+.team-names {
+	align-items: center;
+	display: flex;
+	justify-content: space-around;
+	height: 32px;
+}
+
+.team-name {
+	font-weight: bold;
+}
+
+.team-placeholder {
+	font-size: small;
+}
+
+.kickoff-time {
+	color: @gray-text;
+	display: flex;
+	justify-content: space-around;
+}
+
+@media screen and (max-width: 1024px) {
+	.match-tree {
+		display: none;
+	}
+	
+	.match-list {
+		display: block;
+	}
+}

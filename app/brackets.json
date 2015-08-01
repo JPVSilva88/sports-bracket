@@ -1,0 +1,376 @@
+{
+   "knockout" : {
+      "teamHome" : "WINNER_SEMI_FINAL_1",
+      "teamAway" : "WINNER_SEMI_FINAL_2",
+      "id" : 2103,
+      "kickoff" : "2016-10-10T19:00:00Z",
+      "scoreHome" : -1,
+      "scoreAway" : -1,
+      "children" : [
+         {
+            "id" : 4353,
+            "scoreHome" : -1,
+            "kickoff" : "2016-10-09T19:00:00Z",
+            "teamHome" : "WINNER_ROUND_OF_8_1",
+            "teamAway" : "WINNER_ROUND_OF_8_2",
+            "children" : [
+               {
+                  "kickoff" : "2016-10-08T19:00:00Z",
+                  "scoreHome" : -1,
+                  "id" : 85402,
+                  "teamAway" : "WINNER_ROUND_OF_16_2",
+                  "teamHome" : "WINNER_ROUND_OF_16_1",
+                  "children" : [
+                     {
+                        "scoreAway" : -1,
+                        "children" : [
+                           {
+                              "id" : 34291,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "teamHome" : {
+                                 "id" : 9841530,
+                                 "name" : "Team #1"
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #2",
+                                 "id" : 47591
+                              },
+                              "scoreAway" : -1
+                           },
+                           {
+                              "scoreAway" : -1,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "id" : 6529,
+                              "teamAway" : {
+                                 "id" : 8042584,
+                                 "name" : "Team #4"
+                              },
+                              "teamHome" : {
+                                 "name" : "Team #3",
+                                 "id" : 926540
+                              }
+                           }
+                        ],
+                        "teamHome" : "WINNER_ROUND_OF_32_1",
+                        "teamAway" : "WINNER_ROUND_OF_32_2",
+                        "id" : 49292,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "scoreHome" : -1
+                     },
+                     {
+                        "children" : [
+                           {
+                              "teamHome" : {
+                                 "name" : "Team #5",
+                                 "id" : 1823
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #6",
+                                 "id" : 54325
+                              },
+                              "id" : 99928,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "scoreAway" : -1
+                           },
+                           {
+                              "teamAway" : {
+                                 "id" : 254458,
+                                 "name" : "Team #8"
+                              },
+                              "teamHome" : {
+                                 "id" : 81000,
+                                 "name" : "Team #7"
+                              },
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "id" : 6529,
+                              "scoreAway" : -1
+                           }
+                        ],
+                        "scoreAway" : -1,
+                        "scoreHome" : -1,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "id" : 10457,
+                        "teamAway" : "WINNER_ROUND_OF_32_4",
+                        "teamHome" : "WINNER_ROUND_OF_32_3"
+                     }
+                  ],
+                  "scoreAway" : -1
+               },
+               {
+                  "kickoff" : "2016-10-08T19:00:00Z",
+                  "scoreHome" : -1,
+                  "id" : 45619,
+                  "teamAway" : "WINNER_ROUND_OF_16_4",
+                  "teamHome" : "WINNER_ROUND_OF_16_3",
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "scoreAway" : -1,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "id" : 8459246,
+                              "teamAway" : {
+                                 "id" : 6143951,
+                                 "name" : "Team #10"
+                              },
+                              "teamHome" : {
+                                 "name" : "Team #9",
+                                 "id" : 95163495
+                              }
+                           },
+                           {
+                              "teamHome" : {
+                                 "name" : "Team #11",
+                                 "id" : 4529862
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #12",
+                                 "id" : 1575460
+                              },
+                              "id" : 1924575,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreAway" : -1
+                           }
+                        ],
+                        "scoreAway" : -1,
+                        "scoreHome" : -1,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "id" : 8615744,
+                        "teamAway" : "WINNER_ROUND_OF_32_6",
+                        "teamHome" : "WINNER_ROUND_OF_32_5"
+                     },
+                     {
+                        "teamHome" : "WINNER_ROUND_OF_32_7",
+                        "teamAway" : "WINNER_ROUND_OF_32_8",
+                        "id" : 153206538,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "scoreHome" : -1,
+                        "scoreAway" : -1,
+                        "children" : [
+                           {
+                              "id" : 32149652,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "teamHome" : {
+                                 "id" : 4626,
+                                 "name" : "Team #13"
+                              },
+                              "teamAway" : {
+                                 "id" : 9874564,
+                                 "name" : "Team #14"
+                              },
+                              "scoreAway" : -1
+                           },
+                           {
+                              "scoreAway" : -1,
+                              "id" : 13261996,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "teamHome" : {
+                                 "name" : "Team #15",
+                                 "id" : 215
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #16",
+                                 "id" : 468419
+                              }
+                           }
+                        ]
+                     }
+                  ],
+                  "scoreAway" : -1
+               }
+            ],
+            "scoreAway" : -1
+         },
+         {
+            "scoreAway" : -1,
+            "children" : [
+               {
+                  "kickoff" : "2016-10-08T19:00:00Z",
+                  "scoreHome" : -1,
+                  "id" : 4136,
+                  "teamAway" : "WINNER_ROUND_OF_16_6",
+                  "teamHome" : "WINNER_ROUND_OF_16_5",
+                  "children" : [
+                     {
+                        "scoreAway" : -1,
+                        "children" : [
+                           {
+                              "scoreAway" : -1,
+                              "teamAway" : {
+                                 "id" : 34986,
+                                 "name" : "Team #18"
+                              },
+                              "teamHome" : {
+                                 "name" : "Team #17",
+                                 "id" : 754
+                              },
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "id" : 2750206
+                           },
+                           {
+                              "scoreAway" : -1,
+                              "teamHome" : {
+                                 "name" : "Team #19",
+                                 "id" : 2360
+                              },
+                              "teamAway" : {
+                                 "id" : 8042584,
+                                 "name" : "Team #20"
+                              },
+                              "id" : 852881,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z"
+                           }
+                        ],
+                        "teamHome" : "WINNER_ROUND_OF_32_9",
+                        "teamAway" : "WINNER_ROUND_OF_32_10",
+                        "id" : 989436,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "scoreHome" : -1
+                     },
+                     {
+                        "scoreAway" : -1,
+                        "children" : [
+                           {
+                              "scoreAway" : -1,
+                              "id" : 918745,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "teamHome" : {
+                                 "id" : 874325,
+                                 "name" : "Team #21"
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #22",
+                                 "id" : 9857315
+                              }
+                           },
+                           {
+                              "teamAway" : {
+                                 "name" : "Team #24",
+                                 "id" : 46527
+                              },
+                              "teamHome" : {
+                                 "id" : 4286,
+                                 "name" : "Team #23"
+                              },
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "id" : 454932,
+                              "scoreAway" : -1
+                           }
+                        ],
+                        "teamHome" : "WINNER_ROUND_OF_32_11",
+                        "teamAway" : "WINNER_ROUND_OF_32_12",
+                        "id" : 92645,
+                        "scoreHome" : -1,
+                        "kickoff" : "2016-10-07T19:00:00Z"
+                     }
+                  ],
+                  "scoreAway" : -1
+               },
+               {
+                  "teamHome" : "WINNER_ROUND_OF_16_7",
+                  "teamAway" : "WINNER_ROUND_OF_16_8",
+                  "id" : 24696,
+                  "scoreHome" : -1,
+                  "kickoff" : "2016-10-08T19:00:00Z",
+                  "scoreAway" : -1,
+                  "children" : [
+                     {
+                        "children" : [
+                           {
+                              "scoreAway" : -1,
+                              "teamHome" : {
+                                 "name" : "Team #25",
+                                 "id" : 775
+                              },
+                              "teamAway" : {
+                                 "id" : 109864,
+                                 "name" : "Team #26"
+                              },
+                              "id" : 76367,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z"
+                           },
+                           {
+                              "scoreAway" : -1,
+                              "teamHome" : {
+                                 "id" : 57,
+                                 "name" : "Team #27"
+                              },
+                              "teamAway" : {
+                                 "name" : "Team #28",
+                                 "id" : 275275
+                              },
+                              "id" : 4326,
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z"
+                           }
+                        ],
+                        "scoreAway" : -1,
+                        "scoreHome" : -1,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "id" : 15426,
+                        "teamAway" : "WINNER_ROUND_OF_32_14",
+                        "teamHome" : "WINNER_ROUND_OF_32_13"
+                     },
+                     {
+                        "id" : 145,
+                        "scoreHome" : -1,
+                        "kickoff" : "2016-10-07T19:00:00Z",
+                        "teamHome" : "WINNER_ROUND_OF_32_15",
+                        "teamAway" : "WINNER_ROUND_OF_32_16",
+                        "children" : [
+                           {
+                              "id" : 46236,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "scoreHome" : -1,
+                              "teamHome" : {
+                                 "id" : 5652,
+                                 "name" : "Team #29"
+                              },
+                              "teamAway" : {
+                                 "id" : 141327,
+                                 "name" : "Team #30"
+                              },
+                              "scoreAway" : -1
+                           },
+                           {
+                              "teamAway" : {
+                                 "id" : 5276257,
+                                 "name" : "Team #32"
+                              },
+                              "teamHome" : {
+                                 "name" : "Team #31",
+                                 "id" : 415
+                              },
+                              "scoreHome" : -1,
+                              "kickoff" : "2016-10-06T19:00:00Z",
+                              "id" : 76652,
+                              "scoreAway" : -1
+                           }
+                        ],
+                        "scoreAway" : -1
+                     }
+                  ]
+               }
+            ],
+            "teamAway" : "WINNER_ROUND_OF_8_4",
+            "teamHome" : "WINNER_ROUND_OF_8_3",
+            "scoreHome" : -1,
+            "kickoff" : "2016-10-09T19:00:00Z",
+            "id" : 19156532
+         }
+      ]
+   }
+}
